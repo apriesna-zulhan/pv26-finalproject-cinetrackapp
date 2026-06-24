@@ -23,6 +23,40 @@ Aplikasi desktop katalog film berbasis **PySide6**, data film dari **TMDb API v3
 - **Styling**: Netflix dark theme via `setStyleSheet()` global (QSS)
 - **Status Bar**: Nama & NIM semua anggota (tidak dapat diedit)
 
+## Screenshot
+
+### Dashboard
+
+<img src="screenshot/dashboard.png" width="800">
+
+### Film Populer
+
+<img src="screenshot/film-populer.png" width="800">
+
+### Favorit Saya
+
+<img src="screenshot/favorite-saya.png" width="800">
+
+### Detail Film
+
+<img src="screenshot/detail-film.png" width="800">
+
+### Tambah Film
+
+<img src="screenshot/tambah-film-favorite.png" width="800">
+
+### Edit Film
+
+<img src="screenshot/edit-film-favorite.png" width="800">
+
+### Hapus Film
+
+<img src="screenshot/hapus-film-favorite.png" width="800">
+
+### Export Film ke PDF/CSV
+
+<img src="screenshot/export-pdf-csv.png" width="800">
+
 ## Instalasi & Jalankan
 
 ```bash
